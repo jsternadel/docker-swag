@@ -58,7 +58,7 @@ RUN \
 	php8-intl \
 	php8-ldap \
 	php8-mcrypt \
-	php8-memcached \
+	php8-pecl-memcached \
 	php8-mysqli \
 	php8-mysqlnd \
 	php8-opcache \
