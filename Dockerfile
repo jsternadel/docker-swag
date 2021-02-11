@@ -57,7 +57,7 @@ RUN \
 	php8-imap \
 	php8-intl \
 	php8-ldap \
-	php8-mcrypt \
+	php8-pecl-mcrypt \
 	php8-pecl-memcached \
 	php8-mysqli \
 	php8-mysqlnd \
@@ -79,7 +79,7 @@ RUN \
 	php8-tokenizer \
 	php8-xml \
 	php8-xmlreader \
-	php8-xmlrpc \
+	php8-pecl-xmlrpc \
 	php8-xsl \
 	php8-zip \
 	py3-cryptography \
