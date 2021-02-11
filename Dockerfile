@@ -79,7 +79,7 @@ RUN \
 	php8-tokenizer \
 	php8-xml \
 	php8-xmlreader \
-	php8-pecl-xmlrpc \
+	#php8-pecl-xmlrpc \
 	php8-xsl \
 	php8-zip \
 	py3-cryptography \
